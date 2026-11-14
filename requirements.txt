@@ -1,0 +1,9 @@
+pandas
+numpy
+understatapi
+scikit-learn
+lightgbm
+shap
+matplotlib
+mplsoccer
+jupyter
